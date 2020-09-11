@@ -1,4 +1,4 @@
-# Gazebo_Models
+# Gazebo_Models_obj_file
 
 * marker.mtl : file contains info of texture 
 
