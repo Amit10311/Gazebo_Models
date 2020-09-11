@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
   <model name="goal_marker">
-    <pose>240.5 80 33 -1.57 0 0</pose>
+    <pose>0 0 0 -1.57 0 0</pose>
     <static>true</static>
     <link name="link">
       <pose>0 0 0 0 0 0</pose>
